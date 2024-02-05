@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoires Android</string>
+    <string name="enter_your_name">Entrez votre nom</string>
+    <string name="next_button_text">Suivante</string>
+    <string name="edit_text_label">""</string>
+
+    <string name="new_greetings">Bienvenue!</string>
+    <string name="never_call_me_that">"Ne m'appelle pas comme ça !"</string>
+    <string name="thank_you">Merci</string>
+    <string name="welcome_message">Bienvenue %1$s !</string>
+</resources>

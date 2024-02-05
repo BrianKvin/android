@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="next_button_text">Next</string>
+    <string name="edit_text_label">""</string>
+
+    <string name="new_greetings">Welcome!</string>
+    <string name="never_call_me_that">"Don't Call Me That!"</string>
+    <string name="thank_you">Thank You</string>
+    <string name="welcome_message">Welcome %1$s!</string>
+
+</resources>
